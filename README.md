@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔭 Programming languages and Frameworks that I have professional experience:
+### 🔭 Programming languages and Frameworks:
 
 Backend
 * .Net (5+ years)
@@ -30,7 +30,6 @@ Frontend
 DevOps
 * Docker (1 year)
 * TFS CI (2 years)
-
 
 ### ⚡ My GitHub Stats
 
