@@ -15,7 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## &#x1f4c8; My GitHub Stats
+### 🔭 Programming languages and Frameworks that I have professional experience:
+
+Backend
+* .Net (5+ years)
+* NodeJS (3 years)
+* Python (2 years)
+
+Frontend
+* Angular (AngularJS, Angular 2+) (5+ years)
+* Flutter (1 year)
+* JavaScript (5+ years)
+
+DevOps
+* Docker (1 year)
+* TFS CI (2 years)
+
+
+### ⚡ My GitHub Stats
 
 <a href="https://github.com/natterstefan/natterstefan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPazzini&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
