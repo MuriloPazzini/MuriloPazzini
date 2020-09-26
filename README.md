@@ -31,6 +31,10 @@ DevOps
 * Docker (1 year)
 * TFS CI (2 years)
 
+### 🌱 My Profile at StackOverflow
+[![Perfil no StackOverflow](https://github-readme-stackoverflow-blond.vercel.app/?userID=70755)](https://pt.stackoverflow.com/users/70755/paz)
+
+
 ### ⚡ My GitHub Stats
 
 <a href="https://github.com/natterstefan/natterstefan">
