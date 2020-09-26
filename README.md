@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **MuriloPazzini/MuriloPazzini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🔭 Programming languages and Frameworks:
+### 🔭 Programming languages and Frameworks
 
 Backend
 * .Net (5+ years)
