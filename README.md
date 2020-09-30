@@ -37,10 +37,10 @@ DevOps
 ### ⚡ My GitHub Stats
 
 <a href="https://github.com/murilopazzini/murilopazzini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloPazzini&show_icons=true" alt="Catalin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloPazzini&show_icons=true&hide=java,html,objective-C" alt="Catalin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/murilopazzini/murilopazzini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPazzini&hide=java,html" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPazzini&hide=java,html,objective-C " />
 </a>
 
