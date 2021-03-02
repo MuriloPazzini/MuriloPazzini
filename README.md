@@ -17,18 +17,23 @@ Here are some ideas to get you started:
 ### 🔭 Programming languages and Frameworks
 
 Backend
-* .Net (5+ years)
-* NodeJS (3 years)
-* Python (2 years)
+* .Net 
+* NodeJS 
+* Python 
 
 Frontend
-* Angular (AngularJS, Angular 2+) (5+ years)
-* Flutter (1 year)
-* JavaScript (5+ years)
+* Angular (AngularJS, Angular 2+) 
+* Flutter 
+* JavaScript 
 
 DevOps
-* Docker (1 year)
-* TFS CI (2 years)
+* Docker 
+* Jenkins
+* Kubernetes
+* AWS
+* Azure
+* IBM
+
 
 ### 🌱 My Profile at StackOverflow
 [![Perfil no StackOverflow](https://github-readme-stackoverflow-blond.vercel.app/?userID=70755)](https://pt.stackoverflow.com/users/70755/paz)
