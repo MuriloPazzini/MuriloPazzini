@@ -25,6 +25,7 @@ Frontend
 * Angular (AngularJS, Angular 2+) 
 * Flutter 
 * JavaScript 
+* ReactJs
 
 DevOps
 * Docker 
