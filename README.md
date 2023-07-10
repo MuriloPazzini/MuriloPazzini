@@ -39,14 +39,3 @@ DevOps
 ### 🌱 My Profile at StackOverflow
 [![Perfil no StackOverflow](https://github-readme-stackoverflow-blond.vercel.app/?userID=70755)](https://pt.stackoverflow.com/users/70755/paz)
 
-
-### ⚡ My GitHub Stats
-
-<a href="https://github.com/murilopazzini/murilopazzini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuriloPazzini&show_icons=true&hide=java,html,objective-C" alt="Catalin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/murilopazzini/murilopazzini">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloPazzini&hide=java,html,objective-C " />
-</a>
-
